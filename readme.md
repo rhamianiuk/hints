@@ -1,11 +1,12 @@
 ## Markdown Cheatsheet ##
 * <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
-## Awesome Java/Kotlin Frameworks, Libraries and Software ##
+## Awesome Frameworks, Libraries and Software ##
 * <https://github.com/akullpp/awesome-java>
 * <http://kotlin.link/>
 * <https://github.com/mcxiaoke/awesome-kotlin>
 * <https://github.com/sindresorhus/awesome>
+* <https://github.com/DarkDimius/awesome-scala>
 
 ## Tools ##
 * [sdkman](http://sdkman.io/)
