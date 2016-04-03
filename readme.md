@@ -22,10 +22,10 @@
 * <http://unirest.io/>
 
 ## Web-Frameworks ##
-<http://restx.io/>
-<https://ratpack.io/>
-<http://vertx.io/>
-<http://www.rapidoid.org/>
+* <http://restx.io/>
+* <https://ratpack.io/>
+* <http://vertx.io/>
+* <http://www.rapidoid.org/>
 
 ## Java Goodness ##
 * <https://github.com/VerbalExpressions/JavaVerbalExpressions>
