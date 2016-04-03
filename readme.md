@@ -16,9 +16,16 @@
 * [Jolokia + Highcharts](http://www.nurkiewicz.com/2011/03/jolokia-highcharts-jmx-for-human-beings.html)
 
 
-## Rest/Http/OAuth Libraries ##
+## Json/Rest/Http/OAuth ##
+* <http://owlike.github.io/genson/>
 * <http://http.jcabi.com/>
 * <http://unirest.io/>
+
+## Web-Frameworks ##
+<http://restx.io/>
+<https://ratpack.io/>
+<http://vertx.io/>
+<http://www.rapidoid.org/>
 
 ## Java Goodness ##
 * <https://github.com/VerbalExpressions/JavaVerbalExpressions>
