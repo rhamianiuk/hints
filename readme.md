@@ -11,6 +11,7 @@
 ## Tools ##
 * [sdkman](http://sdkman.io/)
 * [Lazybones](https://github.com/pledbrook/lazybones)
+* [JHipster](http://jhipster.github.io/)
 
 ## Monitoring ##
 * [Dropwizard Metrics](https://dropwizard.github.io/metrics/3.1.0/)
