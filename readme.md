@@ -39,3 +39,4 @@
 ## Articles ##
 * [Swarm v. Fleet v. Kubernetes v. Mesos](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos)
 * [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+* [Aphyr Class: An introduction to distributed systems](https://github.com/aphyr/distsys-class)
