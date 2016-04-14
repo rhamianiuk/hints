@@ -3,6 +3,7 @@
 
 ## Awesome Frameworks, Libraries and Software ##
 * <https://github.com/akullpp/awesome-java>
+* <https://github.com/uhub/awesome-java>
 * <http://kotlin.link/>
 * <https://github.com/mcxiaoke/awesome-kotlin>
 * <https://github.com/sindresorhus/awesome>
