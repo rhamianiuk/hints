@@ -8,6 +8,8 @@
 * <https://github.com/mcxiaoke/awesome-kotlin>
 * <https://github.com/sindresorhus/awesome>
 * <https://github.com/DarkDimius/awesome-scala>
+* <https://github.com/avelino/awesome-go>
+* <https://github.com/uhub/awesome-go>
 
 ## Tools ##
 * [sdkman](http://sdkman.io/)
