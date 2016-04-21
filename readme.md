@@ -20,6 +20,7 @@
 ## Monitoring ##
 * [Dropwizard Metrics](https://dropwizard.github.io/metrics/3.1.0/)
 * [Jolokia + Highcharts](http://www.nurkiewicz.com/2011/03/jolokia-highcharts-jmx-for-human-beings.html)
+* [Kamon](http://kamon.io/)
 
 
 ## Json/Rest/Http/OAuth ##
