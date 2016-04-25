@@ -27,6 +27,7 @@
 * <http://owlike.github.io/genson/>
 * <http://http.jcabi.com/>
 * <http://unirest.io/>
+* <http://square.github.io/okhttp/>
 
 ## Web-Frameworks ##
 * <http://restx.io/>
