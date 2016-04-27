@@ -24,6 +24,7 @@
 
 
 ## Json/Rest/Http/OAuth ##
+* <http://swagger.io>
 * <http://owlike.github.io/genson/>
 * <http://http.jcabi.com/>
 * <http://unirest.io/>
