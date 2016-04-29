@@ -12,6 +12,7 @@
 * <https://github.com/uhub/awesome-go>
 
 ## Tools ##
+* [Presto](https://prestodb.io)
 * [sdkman](http://sdkman.io/)
 * [Lazybones](https://github.com/pledbrook/lazybones)
 * [JHipster](http://jhipster.github.io/)
