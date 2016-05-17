@@ -11,6 +11,8 @@
 * <https://github.com/avelino/awesome-go>
 * <https://github.com/uhub/awesome-go>
 
+* [LibHunt: A network of curated lists of useful libraries and resources](https://www.libhunt.com/)
+
 ## Tools ##
 * [Presto](https://prestodb.io)
 * [sdkman](http://sdkman.io/)
