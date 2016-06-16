@@ -37,6 +37,7 @@
 * <https://ratpack.io/>
 * <http://vertx.io/>
 * <http://www.rapidoid.org/>
+* <https://echo.labstack.com/>
 
 ## Java Goodness ##
 * <https://github.com/VerbalExpressions/JavaVerbalExpressions>
@@ -48,3 +49,4 @@
 * [Swarm v. Fleet v. Kubernetes v. Mesos](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos)
 * [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [Aphyr Class: An introduction to distributed systems](https://github.com/aphyr/distsys-class)
+* [11 podcasts that will make you...](http://www.sleepeasysoftware.com/11-podcasts-that-will-make-you-a-better-software-engineer/)
