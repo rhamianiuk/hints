@@ -11,6 +11,7 @@
 * <https://github.com/avelino/awesome-go>
 * <https://github.com/uhub/awesome-go>
 * [LibHunt: A network of curated lists of useful libraries and resources](https://www.libhunt.com/)
+* [MacOS curated list of CLI commands](https://github.com/herrbischoff/awesome-osx-command-line#dhcp)
 
 ## Tools ##
 * [Presto](https://prestodb.io)
@@ -50,3 +51,4 @@
 * [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
 * [Aphyr Class: An introduction to distributed systems](https://github.com/aphyr/distsys-class)
 * [11 podcasts that will make you...](http://www.sleepeasysoftware.com/11-podcasts-that-will-make-you-a-better-software-engineer/)
+* [Close Encounters of The Java Memory Model Kind](http://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
