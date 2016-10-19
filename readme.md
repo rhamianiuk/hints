@@ -19,6 +19,7 @@
 * [Lazybones](https://github.com/pledbrook/lazybones)
 * [JHipster](http://jhipster.github.io/)
 * [Yeoman](http://yeoman.io/learning/index.html)
+* [Chaos Monkey](http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html)
 
 ## Monitoring ##
 * [Dropwizard Metrics](https://dropwizard.github.io/metrics/3.1.0/)
