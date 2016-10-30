@@ -1,6 +1,9 @@
 ## Markdown Cheatsheet ##
 * <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
+## LaTeX Cheatsheet ##
+* <https://github.com/VoLuong/Begin-Latex-in-minutes>
+
 ## Awesome Frameworks, Libraries and Software ##
 * <https://github.com/akullpp/awesome-java>
 * <https://github.com/uhub/awesome-java>
