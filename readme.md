@@ -59,3 +59,5 @@
 * [11 podcasts that will make you...](http://www.sleepeasysoftware.com/11-podcasts-that-will-make-you-a-better-software-engineer/)
 * [Close Encounters of The Java Memory Model Kind](http://shipilev.net/blog/2016/close-encounters-of-jmm-kind/)
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
+* <http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html>
+* <http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html>
