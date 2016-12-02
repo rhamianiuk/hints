@@ -16,6 +16,7 @@
 * [LibHunt: A network of curated lists of useful libraries and resources](https://www.libhunt.com/)
 * [MacOS curated list of CLI commands](https://github.com/herrbischoff/awesome-osx-command-line#dhcp)
 * <https://github.com/dhamaniasad/awesome-postgres>
+* <https://github.com/dhamaniasad/HeadlessBrowsers>
 
 ## Tools ##
 * [Presto](https://prestodb.io)
