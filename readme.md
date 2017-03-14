@@ -17,6 +17,7 @@
 * [MacOS curated list of CLI commands](https://github.com/herrbischoff/awesome-osx-command-line#dhcp)
 * <https://github.com/dhamaniasad/awesome-postgres>
 * <https://github.com/dhamaniasad/HeadlessBrowsers>
+* <https://github.com/josephmisiti/awesome-machine-learning>
 
 ## Tools ##
 * [Presto](https://prestodb.io)
