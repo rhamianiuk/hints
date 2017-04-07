@@ -64,3 +64,4 @@
 * <http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html>
 * <http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html>
 * <http://ferd.ca/handling-overload.html>
+* <https://github.com/donnemartin/system-design-primer>
