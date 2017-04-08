@@ -65,3 +65,4 @@
 * <http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html>
 * <http://ferd.ca/handling-overload.html>
 * <https://github.com/donnemartin/system-design-primer>
+* <https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54>
