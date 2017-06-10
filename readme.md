@@ -49,10 +49,17 @@
 
 ## Java Goodness ##
 * <https://github.com/VerbalExpressions/JavaVerbalExpressions>
-* [Eclipse Collections (former Goldman Sachs Collections)](https://www.eclipse.org/collections/) + [шпаргалка](https://habrahabr.ru/company/luxoft/blog/256877/)
+* [Eclipse Collections (former Goldman Sachs Collections)](https://www.eclipse.org/collections/) + [cheatsheet](https://habrahabr.ru/company/luxoft/blog/256877/)
 * [Caffeine: caching library for Java 8](https://github.com/ben-manes/caffeine)
 * [StreamEx: Enhancing Java 8 Streams](https://github.com/amaembo/streamex)
 * <https://github.com/vladmihalcea/flexy-pool>
+
+## Databases ##
+### PG ###
+* <http://momjian.us/main/writings/pgsql/scaling.pdf>
+* <http://momjian.us/main/writings/pgsql/performance.pdf>
+* <http://momjian.us/main/writings/pgsql/window.pdf>
+
 
 ## Articles ##
 * [Swarm v. Fleet v. Kubernetes v. Mesos](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos)
