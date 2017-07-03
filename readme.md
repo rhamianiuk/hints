@@ -13,6 +13,7 @@
 * <https://github.com/DarkDimius/awesome-scala>
 * <https://github.com/avelino/awesome-go>
 * <https://github.com/uhub/awesome-go>
+* <https://awesome-go.com/>
 * [LibHunt: A network of curated lists of useful libraries and resources](https://www.libhunt.com/)
 * [MacOS curated list of CLI commands](https://github.com/herrbischoff/awesome-osx-command-line#dhcp)
 * <https://github.com/dhamaniasad/awesome-postgres>
